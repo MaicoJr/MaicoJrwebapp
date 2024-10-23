@@ -36,7 +36,6 @@ st.write("I'm ", age, "years old")
 
 st.image("desenvolvimento.jpg", caption="TESTE_Inserir_IMAGEM")
 
-import streamlit as st
 
 col1, col2, col3 = st.columns(3)
 
